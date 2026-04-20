@@ -9,22 +9,13 @@ Compreender a evolução das redes de computadores, identificar seus elementos b
 Cada grupo deve incluir neste repositório:
 
 ### 1. Linha do Tempo
-![Linha Do tempo atividade](imagens/LinhaDotempo.png)
+![Linha Do tempo atividade](Imagens/LinhaDotempo.png)
 
 ### 2. Elementos da Rede
-- Esquema ilustrando os quatro elementos fundamentais:
-  - **Emissor**
-  - **Receptor**
-  - **Meio de Transmissão**
-  - **Protocolo**
-- Exemplos práticos com dispositivos reais.
+![Linha Do tempo atividade](Imagens/ElementosRede.png)
 
 ### 3. Classificação de Redes
-- Quadro comparativo ou mapa conceitual com exemplos reais:
-  - **PAN** – Bluetooth entre celular e fone de ouvido.
-  - **LAN** – Rede doméstica ou de laboratório.
-  - **MAN** – Rede de uma universidade ou prefeitura.
-  - **WAN** – Internet.
+![Linha Do tempo atividade](Imagens/ClassificaçãoRede.png)
 
 ## Organização dos Arquivos
 - Criar uma pasta com o nome do grupo (ex.: `Grupo1_Windows`, `Grupo2_Linux`).
