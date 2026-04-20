@@ -12,7 +12,7 @@ Cada grupo deve incluir neste repositório:
 ![[Linha Do tempo atividade](Imagens/LinhaDotempo.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-Hardware/blob/main/Unidade%204%20/Imagens/Linha%20Do%20tempo.png)
 
 ### 2. Elementos da Rede
-![[Elementos Rede  atividade](Imagens/ElementosRede.png)
+![[Elementos Rede  atividade](Imagens/ElementosRede.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-Hardware/blob/main/Unidade%204%20/Imagens/Elementos%20Rede.png)
 
 ### 3. Classificação de Redes
 ![[Classificação Rede atividade](Imagens/ClassificaçãoRede.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-Hardware/blob/main/Unidade%204%20/Imagens/Classifica%C3%A7%C3%A3o%20Rede.png)
