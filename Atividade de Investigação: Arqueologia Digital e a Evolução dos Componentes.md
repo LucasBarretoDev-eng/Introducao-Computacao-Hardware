@@ -1,64 +1,64 @@
-Atividade de Investigação: Arqueologia Digital e a Evolução dos Componentes
-Cray-1
-1. Processamento
-O Cray-1, projetado por Seymour Cray na empresa Cray Research, utilizava uma arquitetura vetorial para alcançar alto desempenho.
+# Atividade de Investigação: Arqueologia Digital e a Evolução dos Componentes
 
-Ele era composto por várias unidades funcionais especializadas, como:
+## 🏛️ O Supercomputador Cray-1
 
-Unidade de soma
-Unidade de multiplicação
-Unidade lógica
-Unidade de deslocamento
-Unidade de ponto flutuante
-O sistema funcionava com pipeline, permitindo processar vetores de dados (vários números) de forma contínua.
-Após o pipeline estar cheio, o computador conseguia gerar aproximadamente um resultado por ciclo.
+O **Cray-1**, projetado por Seymour Cray na empresa *Cray Research*, foi um marco na computação, utilizando uma **arquitetura vetorial** para alcançar alto desempenho para a sua época.
 
-Funções principais do processamento:
+### 1. Processamento ⚙️
+O sistema operava com **pipeline**, permitindo processar vetores de dados de forma contínua. Após o pipeline estar cheio, o computador gerava aproximadamente um resultado por ciclo. Ele era composto por unidades funcionais especializadas:
 
-Buscar e decodificar instruções
-Enviar cada operação para a unidade funcional correta
-Controlar dependências entre instruções para permitir execução paralela eficiente
-2. Armazenamento
-O Cray-1 possuía um sistema de armazenamento projetado para suportar processamento vetorial rápido.
+* **Unidade de soma**
+* **Unidade de multiplicação**
+* **Unidade lógica**
+* **Unidade de deslocamento**
+* **Unidade de ponto flutuante**
 
-Memória principal
+**Funções principais:**
+- Buscar e decodificar instruções.
+- Enviar cada operação para a unidade funcional correta.
+- Controlar dependências entre instruções para permitir execução paralela eficiente.
 
-Tipo: SRAM bipolar
-Capacidade: cerca de 1 milhão de palavras de 64 bits
-Aproximadamente 8 MB de memória
-Registradores
+---
 
-8 registradores escalares de 64 bits
-8 registradores de endereço (24 bits)
-8 registradores vetoriais, cada um com 64 elementos de 64 bits
-3. Interface
-O Cray-1 era normalmente utilizado em centros de pesquisa e conectado a outros sistemas responsáveis pela entrada e saída de dados.
+### 2. Armazenamento 💾
+O sistema de armazenamento foi projetado para suportar a velocidade do processamento vetorial.
 
-Entrada
-Leitor de cartões perfurados – muito utilizado na época para carregar programas e dados
-Unidades de fita magnética – usadas para carregar grandes conjuntos de dados
-Terminais de computador – geralmente conectados a um computador front-end, que enviava comandos ao Cray-1
-Teclado (via terminal) – para operadores inserirem comandos
-Saída
-Impressoras de alta velocidade – para imprimir resultados de cálculos científicos
-Unidades de fita magnética – para armazenar resultados ou grandes volumes de dados
-Terminais com monitor – para mostrar mensagens, logs e resultados
-Plotters – para gerar gráficos científicos e visualizações de dados
-4. Comparação
-Uma comparação interessante pode ser feita entre o Cray-1 e um smartphone atual, como o iPhone 15 Pro da Apple.
+* **Memória Principal:**
+    * Tipo: SRAM bipolar.
+    * Capacidade: ~1 milhão de palavras de 64 bits (Aproximadamente **8 MB**).
+* **Registradores:**
+    * 8 registradores escalares (64 bits).
+    * 8 registradores de endereço (24 bits).
+    * 8 registradores vetoriais (cada um com 64 elementos de 64 bits).
 
-Cray-1
-Supercomputador utilizado em pesquisas científicas
-Realizava cerca de 160 milhões de cálculos por segundo (160 MFLOPS)
-Possuía aproximadamente 8 MB de memória
-Ocupava quase o tamanho de uma sala
-Utilizado principalmente por cientistas e centros de pesquisa
-iPhone 15 Pro
-Possui um processador extremamente mais rápido
-Tem vários gigabytes de memória RAM
-Possui grande capacidade de armazenamento
-Usado no dia a dia para internet, aplicativos, fotos, jogos e comunicação
-Conclusão
-O Cray-1 era extremamente avançado para sua época. Ao compará-lo com um dispositivo moderno como o iPhone 15 Pro, é possível perceber como a tecnologia evoluiu.
+---
 
-Hoje, dispositivos muito menores e portáteis conseguem ter desempenho superior em várias tarefas, demonstrando a enorme evolução da computação e da tecnologia ao longo do tempo.
+### 3. Interface (Entrada e Saída) 🔌
+O Cray-1 não operava sozinho; ele era conectado a sistemas *front-end* que gerenciavam os dados.
+
+| Tipo | Dispositivos |
+| :--- | :--- |
+| **Entrada** | Leitor de cartões perfurados, Unidades de fita magnética, Terminais (teclado). |
+| **Saída** | Impressoras de alta velocidade, Unidades de fita, Monitores (logs), Plotters (gráficos). |
+
+---
+
+### 4. Comparação Histórica: Cray-1 vs. iPhone 15 Pro 📱
+
+Esta comparação demonstra o salto tecnológico em quase 50 anos:
+
+| Característica | Cray-1 (1976) | iPhone 15 Pro (Hoje) |
+| :--- | :--- | :--- |
+| **Desempenho** | 160 MFLOPS | ~35 TFLOPS (GPU) |
+| **Memória RAM** | 8 MB | 8 GB |
+| **Tamanho** | Quase uma sala inteira | Bolso da calça |
+| **Público** | Cientistas e Centros de Pesquisa | Uso Pessoal/Global |
+
+---
+
+## 🏁 Conclusão
+
+O Cray-1 representa o ápice da engenharia dos anos 70. A transição de uma máquina que ocupava salas e processava megabytes para dispositivos de bolso que processam terabytes de operações por segundo evidencia a velocidade da **Lei de Moore** e a evolução da arquitetura de computadores.
+
+---
+*Documento gerado para fins de estudo em Arqueologia Digital.*
