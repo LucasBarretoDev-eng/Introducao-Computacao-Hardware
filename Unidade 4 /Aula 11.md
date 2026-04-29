@@ -28,7 +28,7 @@ Cada grupo deve incluir neste repositório:
 ### 3. Meios de Transmissão
   - Meios Guiados
     ![[MeiosGuiados](Imagens/MeiosGuiaods.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/MeiosGuiados.png)
-  - Meios Não Guiados
+  - Meios Não Guis
     ![[MeiosNãoGuiados ](Imagens/MeiosNaoGuiados.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/MeiosNaoGuiados.png)
   - Esquema Visual
     ![[Malha](Imagens/EsquemaVisual.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/EsquemaVisual.png)
